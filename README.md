@@ -32,7 +32,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('BR Logo.jpg');
+    background-image: url('https://raw.githubusercontent.com/KenNg-web/KenNg-web.github.io/main/BR%20Logo.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
